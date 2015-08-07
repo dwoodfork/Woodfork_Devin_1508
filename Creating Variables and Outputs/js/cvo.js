@@ -28,4 +28,5 @@
 
 alert ("My name is" + " " + name + " " + "and I am" + " " + age + "." + " " +
     "I am from" + " " + city + " and according to my age when asked if I am of legal" +
-    " age the answer is always" + " " +  isLegal + "." + "I am a Web Design and Developer Major." );
+    " age the answer is always" + " " +  isLegal + "." + "I am a Web Design and Developer Major at Full" +
+    "Sail University Online." );
